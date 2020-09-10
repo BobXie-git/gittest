@@ -1,3 +1,16 @@
-# gittest
-1st time test for git
-just a testing for 1st using github
+# This is readme for SPC
+
+
+```python
+import Test
+Test.test.add(1,2)
+```
+
+
+
+
+    3
+
+
+
+$F(X)=\sum_{0}^{\infty}X$
